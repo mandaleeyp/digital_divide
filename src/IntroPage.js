@@ -39,7 +39,7 @@ class IntroPage extends React.Component {
                 <img src={Slide7} height="80%" alt="slide1"/>
                 <img src={Slide8} height="80%" alt="slide1"/>
                 <img src={Slide9} height="80%" alt="slide1"/>
-                <img src={Slide10} height="80%" alt="slide1"/>
+                {/* <img src={Slide10} height="80%" alt="slide1"/> */}
             </Carousel>
          </div>
      );
