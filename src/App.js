@@ -2,7 +2,7 @@ import React from 'react';
 import header from './images/header.png';
 import startButton from './images/startButton.png';
 import ReactDOM from 'react-dom';
-import MainPage from './MainPage';
+import MainPage from './MainPage.js';
 import test from './images/gif3.gif';
 import './App.css';
 
